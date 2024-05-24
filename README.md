@@ -4,7 +4,7 @@
 <h1 align="center"> Hi 👋, I'm Joan Sebastian Londoño </h1>
 <h3 align="center"> A passionate software developer from Colombia </h3>
 <h2 align="center"> Esta app permite realizar busquedas de imagines sin copyright consumiendo la API Pixabay </h2>
-<h2 align="center"> Skills used: HTML5, CSS3, JavaScript, Tailwind CSS, API Fetch y Pixabay API </h2>
+<h2 align="center">Skills used: HTML5, CSS3, JavaScript, Tailwind CSS, API Fetch y Pixabay API</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebaslc16" alt="sebaslc16" /></a> </p>
 
